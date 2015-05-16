@@ -1,4 +1,6 @@
-# Tmux fpp
+# Tmux fpp-fish
+
+A form of [tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) that supports fish shell.
 
 Plugin wrapper around [Facebook PathPicker](http://facebook.github.io/PathPicker/).
 
